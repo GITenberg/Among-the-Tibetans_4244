@@ -1,0 +1,28 @@
+_repo: Among-the-Tibetans_4244
+creator:
+  author:
+    agent_name: Bird, Isabella L. (Isabella Lucy)
+    alias: Bishop, Isabella Lucy Bird
+    birthdate: 1831
+    deathdate: 1904
+    gutenberg_agent_id: '393'
+    url: http://www.gutenberg.org/2009/agents/393
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Bird
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- China -- Tibet Autonomous Region -- History -- 19th century'
+- !lcsh 'Bird, Isabella L. (Isabella Lucy), 1831-1904 -- Travel -- China -- Tibet
+  Autonomous Region'
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Women travelers -- China -- Tibet Autonomous Region -- Biography'
+title: Among the Tibetans
+url: http://www.gutenberg.org/ebooks/4244
